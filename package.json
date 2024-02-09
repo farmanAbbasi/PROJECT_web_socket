@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "ws": "^8.16.0"
+    "name": "web-scoket-app",
+    "version": "1.0.0",
+    "description": "For chat bot application",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "ws": "^8.16.0"
+    }
+
   }
-}
+
